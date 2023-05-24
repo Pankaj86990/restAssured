@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/jcommander.jar"/>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/testng-6.14.2.jar"/>
+	<classpathentry kind="lib" path="C:/QA/Testing/wetransfer_build-xml_2023-03-25_1456/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
